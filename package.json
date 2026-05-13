@@ -1,0 +1,10 @@
+{
+  "name": "e2e-testing",
+  "description": "End-to-End Testing with Cypress",
+  "scripts": {
+    "start": "serve todos"
+  },
+  "dependencies": {
+    "serve": "^14.2.6"
+  }
+}
